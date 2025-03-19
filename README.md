@@ -1,5 +1,8 @@
 LoanONE AI - Intelligent Loan Approval System
 
+Demo Video Link
+[a link](https://drive.google.com/file/d/187bPh39pDcjCMAtysZlc_y80lZjq9k7e/view?usp=sharing)
+
 🚀 Revolutionizing Loan Approvals with AI & Automation
 
 LoanONE AI is an innovative, AI-driven online loan approval system designed to simplify and accelerate loan applications while ensuring security, compliance, and accessibility. By integrating cutting-edge AI and speech recognition technologies, LoanONE AI eliminates unnecessary delays, enhances user experience, and streamlines the verification process.
